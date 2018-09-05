@@ -65,5 +65,5 @@ cp -a /var/lib/mock/epel-7-x86_64/root/builddir/build/RPMS/* RPMS/.
 echo "BUILD COMPLETE!"
 cd RPMS
 pwd
-ls -l /$BPATH/RPMS
+ls -l $BPATH/RPMS/*
 echo "done.."
