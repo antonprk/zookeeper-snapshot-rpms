@@ -7,7 +7,7 @@ It should also work on recent Fedoras, too.
 ## Building
     git clone https://github.com/antonprk/zookeeper-snapshot-rpms
     cd zookeeper-rpms
-    chmo u+x build.sh; build.sh
+    chmod u+x build.sh; build.sh
 
 ## License
 All files in this repository are licensed under the Apache 2 license. Any
